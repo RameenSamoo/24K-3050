@@ -2,5 +2,5 @@
 # Welcome to the FAST
 **Assignments**\
 *Tasks*\
-***Quizes, Exams***\
+***Quizes,Exams***\
 ~~Fun, PEACE, Social life~~
